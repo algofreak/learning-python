@@ -10,7 +10,7 @@ requests==2.10.0
 stripe==1.37.0
 dj-database-url==0.4.1
 django-oauth2-provider==0.2.6.1
-djangorestframework==3.4.0
+djangorestframework==3.9.1
 pytest==2.9.2
 numpy==1.11.1
 scipy==0.17.1
