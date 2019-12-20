@@ -1,6 +1,6 @@
 # Find the package and version here - https://pypi.python.org/pypi
 
-django==1.9.8
+django==1.11.23
 bpython==0.15
 django-braces==1.9.0
 django-model-utils==2.5
