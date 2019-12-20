@@ -23,7 +23,7 @@ ajax==3.0.0
 Pillow==6.2.0
 SQLAlchemy==1.3.0
 beautifulsoup4==4.5.0
-Twisted==19.7.0
+Twisted==19.10.0
 nose==1.3.7
 
 # TODO: Need to find proper version and name, these are not working
