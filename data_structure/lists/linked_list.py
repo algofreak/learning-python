@@ -5,6 +5,9 @@ class Node:
         self.data = _data
         self.next = None
 
+    def __str__(self):
+        return f"{self.data}"
+
 
 class LinkedList:
     start: Node = None
@@ -26,9 +29,9 @@ class LinkedList:
         str = ""
         node = self.start
         while node.next is not None:
-            str = str + f"[{node.data}] {self.direction_char()} "
+            str = str + f"[{node}] {self.direction_char()} "
             node = node.next
-        str = str + f"[{node.data}]"
+        str = str + f"[{node}]"
         return str
 
     def add(self, data: int):

@@ -56,13 +56,13 @@ class DoublyLinkedList(LinkedList):
         if self.reverse:
             node = self.end
             while node.prev is not None:
-                str = str + f"[{node.data}] {self.direction_char()} "
+                str = str + f"[{node}] {self.direction_char()} "
                 node = node.prev
         else:
             node = self.start
             while node.next is not None:
-                str = str + f"[{node.data}] {self.direction_char()} "
+                str = str + f"[{node}] {self.direction_char()} "
                 node = node.next
-        str = str + f"[{node.data}]"
+        str = str + f"[{node}]"
         return str
 
