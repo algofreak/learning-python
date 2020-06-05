@@ -23,8 +23,8 @@ def main():
 
     list = (OrderedDoublyList(False) + 765764764 + 1 + 5 + 10 + 4 + 2 + 100 + 1000 + 45 + 38 + 39).add(99)
     print(f"OrderedDoublyList: {list}")
-    list.set_reverse(True)
-    list = list - 46
+    # list.set_reverse(True)
+    list = list - 100
     print(f"OrderedDoublyList: {list}")
 
 
