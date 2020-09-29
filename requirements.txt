@@ -24,7 +24,7 @@ pandas==1.0.5
 Pillow==7.1.2
 Keras==2.4.3
 opencv-python==4.2.0.34
-tensorflow==2.2.0
+tensorflow==2.2.1
 ipython==7.16.1
 seaborn==0.10.1
 spacy==2.3.0
