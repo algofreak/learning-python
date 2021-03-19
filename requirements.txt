@@ -9,7 +9,7 @@ requests==2.24.0
 stripe==2.48.0
 dj-database-url==0.5.0
 django-oauth2-provider==0.2.6.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 pytest==5.4.3
 BeautifulSoup==3.2.2
 PyPDF2==1.26.0
