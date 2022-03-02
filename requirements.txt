@@ -63,7 +63,7 @@ ffmpeg-python==0.2.0
 
 # TODO: Need to find proper version and name, these are not working
 elementtree==1.2.6-20050316
-scrapy==2.1.0
+scrapy==2.6.0
 ntlk==3.2.1
 cvxpy==1.0.31
 ecos==2.0.7.post1
