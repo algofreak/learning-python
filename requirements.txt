@@ -12,7 +12,7 @@ django-oauth2-provider==0.2.6.1
 djangorestframework==3.11.0
 pytest==5.4.3
 BeautifulSoup==3.2.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 
 # Machine Learning and Data Analysis Libs
 numpy==1.19.0
